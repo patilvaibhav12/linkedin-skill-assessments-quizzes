@@ -414,4 +414,11 @@ _NOTE_: Hybrid inheritance is a composition of multiple and hierarchical inherit
 - [x] The catch block that will be executed is the one that best matches the type of the exception thrown
 - [ ] Multiple catch blocks are not allowed with a single try.
 - [ ] Every catch block will run accordingly in a try.
-- [ ]
+
+
+#### Q56. Which is not the part of Django Design Philosophies?
+
+- [ ] Loose Coupling
+- [ ] Less Code
+- [ ] Fast Development
+- [x] Repeat Yourself
